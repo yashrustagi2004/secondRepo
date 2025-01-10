@@ -2,3 +2,4 @@ first line
 2nd line in 5th file
 3rd line
 4th line
+6th line
